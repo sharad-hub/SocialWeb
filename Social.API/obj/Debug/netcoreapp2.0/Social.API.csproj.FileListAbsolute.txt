@@ -1,0 +1,11 @@
+E:\DevApps\Social.API\Social.API\bin\Debug\netcoreapp2.0\Social.API.deps.json
+E:\DevApps\Social.API\Social.API\bin\Debug\netcoreapp2.0\Social.API.runtimeconfig.json
+E:\DevApps\Social.API\Social.API\bin\Debug\netcoreapp2.0\Social.API.runtimeconfig.dev.json
+E:\DevApps\Social.API\Social.API\bin\Debug\netcoreapp2.0\Social.API.dll
+E:\DevApps\Social.API\Social.API\bin\Debug\netcoreapp2.0\Social.API.pdb
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.csproj.CoreCompileInputs.cache
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.AssemblyInfoInputs.cache
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.AssemblyInfo.cs
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.dll
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.pdb
+E:\DevApps\Social.API\Social.API\obj\Debug\netcoreapp2.0\Social.API.csprojAssemblyReference.cache
